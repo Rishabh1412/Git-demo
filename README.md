@@ -1,3 +1,4 @@
 # Git-demo
 new at this hub
-Author- Rishabh Kartik
+<br>
+<h3>Author- Rishabh Kartik</h3>
